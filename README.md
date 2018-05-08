@@ -1,2 +1,17 @@
 # JQ-图片放大插件
 一款很酷的JQ图片放大插件，引入JQ，再引入插件就OK了。
+
+
+#使用方法：
+1、引入JQ，引入enlarge.js；
+2、此对象方法是绑定到$.fn上的，jq的所有实例对象可以访问。
+接受对象参数，或是直接设置，如下：
+```javascript
+      var x = $('#div1').enLarge();
+			x.setEnlargePosition('right');
+			x.setMultiple(1.2);
+			$("#div2").enLarge({
+				'enlargePosition': 'right',
+				'multiple': 1.5
+			});
+ ```
