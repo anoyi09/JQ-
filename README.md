@@ -7,11 +7,11 @@
 2、此对象方法是绑定到$.fn上的，jq的所有实例对象可以访问。
 接受对象参数，或是直接设置，如下：
 ```javascript
-      var x = $('#div1').enLarge();
-			x.setEnlargePosition('right');
-			x.setMultiple(1.2);
-			$("#div2").enLarge({
-				'enlargePosition': 'right',
-				'multiple': 1.5
-			});
+      	var x = $('#div1').enLarge();
+	x.setEnlargePosition('right');
+	x.setMultiple(1.2);
+	$("#div2").enLarge({
+		'enlargePosition': 'right',
+		'multiple': 1.5
+	});
  ```
