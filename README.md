@@ -17,5 +17,5 @@
  ```
  
  #效果图：
- 
-<img src="//106.14.6.243/p3761601858/img1525750637.jpeg" alt="换一张" style="display: block;">
+ ![weyoustory](http://106.14.6.243/p3761601858/img1525750637.jpeg)
+<img src="http://106.14.6.243/p3761601858/img1525750637.jpeg" alt="换一张" style="display: block;">
