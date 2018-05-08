@@ -5,7 +5,9 @@
 # 使用方法：
 <p>1、引入JQ，引入enlarge.js；</p>
 <p>2、此对象方法是绑定到$.fn上的，jq的所有实例对象可以访问。</p>
+
 接受对象参数，或是直接设置，如下：
+
 ```javascript
       	var x = $('#div1').enLarge();
 	x.setEnlargePosition('right');
